@@ -100,7 +100,7 @@ function firstQuestion(){
                                                 width: 900,
                                                 confirmButtonText: 'Okiiiii lun😜😜😜',
                                                 background: '#fff url("nen2.jpg")',
-                                                title: 'Chúc cậu ngày 8/3 vui vẻ không quạo nha🥰',
+                                                title: 'Chúc Loan ngày 8/3 vui vẻ không quạo nha🥰',
                                                 text: 'Ib mình nêu cảm nhận về món quà này nha! Hhee🥰🥰🥰',
                                                 confirmButtonColor: '#83d0c9',
                                                 backdrop: `
